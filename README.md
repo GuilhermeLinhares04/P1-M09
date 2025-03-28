@@ -4,6 +4,11 @@ Este projeto implementa um protocolo de comunicação personalizado entre dois m
 
 ---
 
+## 🎥 Vídeo Explicativo
+[🔗 **Link para o Vídeo no YouTube**](https://youtu.be/2ng5MBiueMg)
+
+---
+
 ## 📌 Funcionalidades
 - **Transmissão de 4 mensagens:** `00`, `01`, `10`, `11`, cada uma acionando um comando diferente.
 - **Codificação Manchester:** Garante sincronização entre transmissor e receptor.
@@ -48,8 +53,3 @@ Este projeto implementa um protocolo de comunicação personalizado entre dois m
 | `01`     | Liga LED Verde           |
 | `10`     | Desliga LEDs             |
 | `11`     | Alerta (piscar LEDs 3x) |
-
----
-
-## 🎥 Vídeo Explicativo
-[🔗 **Link para o Vídeo no YouTube**](https://youtu.be/2ng5MBiueMg)
